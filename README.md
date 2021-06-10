@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mayur Ray, a first year CSE student at NIT Agartala.
-- 👀 I’m interested in AI & robotics (especiially humanoid robotics).
+- 👀 I’m interested in AI & robotics (especially humanoid robotics).
 - 🌱 I’m currently learning DSA along with C++.
 <!--- - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...--->
